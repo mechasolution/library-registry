@@ -1,6 +1,7 @@
+https://github.com/LordofRobots/LoR
+https://github.com/jibrilsharafi/AdvancedLogger
 https://github.com/ZeeDesigns7/AdvancedSerial
 https://github.com/locple/LCDI2C_Multilingual
-https://github.com/brincode/Fa3el_kher
 https://github.com/makerlabvn/BlynkGate
 https://github.com/trongthan210/iMaker-PS2
 https://github.com/makerlabvn/kxnTask
@@ -319,6 +320,7 @@ https://github.com/adafruit/Adafruit_PM25AQI
 https://github.com/adafruit/Adafruit_Protomatter
 https://github.com/adafruit/Adafruit_PyCamera
 https://github.com/adafruit/Adafruit_RA8875
+https://github.com/adafruit/Adafruit_S-35710
 https://github.com/adafruit/Adafruit_SCD30
 https://github.com/adafruit/Adafruit_Seesaw
 https://github.com/adafruit/Adafruit_Sensor
@@ -472,6 +474,7 @@ https://github.com/aharshac/StringSplitter
 https://github.com/ahmedarif193/Hlw8032
 https://github.com/ahmedosama07/LineFollowerPID
 https://github.com/ahmedosama07/mDriverL298n
+https://github.com/ahmedosama07/PID-autotune
 https://github.com/AhmedYousryM/NonBlockingSequence
 https://github.com/ahmsec/fork-webbino-ahmsec
 https://github.com/ai-techsystems/arduino
@@ -2422,6 +2425,7 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/rtc_utils
 https://github.com/GyverLibs/Stack
 https://github.com/GyverLibs/GyverDS18
 https://github.com/GyverLibs/AccelMotor
@@ -3744,7 +3748,7 @@ https://github.com/marcmerlin/SmartMatrix_GFX
 https://github.com/marcobrianza/ClickButton
 https://github.com/marcoschwartz/aREST
 https://github.com/marcoschwartz/aREST_UI
-https://github.com/marcoschwartz/LiquidCrystal_I2C
+https://github.com/johnrickman/LiquidCrystal_I2C
 https://github.com/marecl/HPDL1414
 https://github.com/marecl/settingsManager
 https://github.com/marhar/ArrbotMonitor
@@ -3922,6 +3926,7 @@ https://github.com/micro-bitcoin/uBitcoin
 https://github.com/MicroBahner/MobaTools
 https://github.com/MicroBeaut/ADebouncer
 https://github.com/MicroBeaut/Finite-State
+https://github.com/MicroBeaut/Generic-Queue
 https://github.com/MicroBeaut/MAX6816
 https://github.com/MicroBeaut/MicroBeaut
 https://github.com/MicroBeaut/MicroBeaut-TCone
@@ -4524,6 +4529,7 @@ https://github.com/plenprojectcompany/PLEN5Stack
 https://github.com/plerup/espsoftwareserial
 https://github.com/ploys/arduino-logger
 https://github.com/plsTrustMeImAnEngineer/StreamAverage
+https://github.com/pmarques-dev/PicoEncoder
 https://github.com/pmassio/ArduinoLMI
 https://github.com/PodgroupConnectivity/PodEnoSim
 https://github.com/poelstra/arduino-multi-button
@@ -4723,6 +4729,7 @@ https://github.com/pxsty0/deneyap.telegram
 https://github.com/pxsty0/deneyapkart.agent.lib
 https://github.com/pxsty0/pxserv.lib
 https://github.com/Pylo/MCreatorLinkArduino
+https://github.com/pokerobo/Pokerobo_Arm
 https://github.com/pokerobo/Pokerobo_Car
 https://github.com/pokerobo/Pokerobo_Labs
 https://github.com/pokerobo/Pokerobo_RCB
@@ -4840,8 +4847,6 @@ https://github.com/rfetick/Kalman
 https://github.com/rfetick/MPU6050_light
 https://github.com/RFExplorer/RFExplorer_3GP_IoT_Arduino
 https://github.com/rgot-org/TheThingsNetwork_esp32
-https://github.com/rgot-org/TTN_M5Stack
-https://github.com/rgot-org/LoRaWan_esp32
 https://github.com/rhelmus/virtmem-arlibman
 https://github.com/Rhomb-io/rhio-pinmap
 https://github.com/rhrhhrhr/MPC_ruih
@@ -5083,6 +5088,8 @@ https://github.com/RobTillaart/KT0803
 https://github.com/RobTillaart/LineFormatter
 https://github.com/RobTillaart/Logistic
 https://github.com/RobTillaart/LTC2991
+https://github.com/RobTillaart/LTR390_DFR
+https://github.com/RobTillaart/LTR390_RT
 https://github.com/RobTillaart/LUHN
 https://github.com/RobTillaart/M5ANGLE8
 https://github.com/RobTillaart/M5ROTATE8
@@ -6645,6 +6652,7 @@ https://github.com/yesbotics/dualsense-controller
 https://github.com/YFROBOT-TM/Yfrobot-FPM383-Library
 https://github.com/YFROBOT-TM/Yfrobot-I2C-LineFollowSensor-Library
 https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-Library
+https://github.com/YFROBOT-TM/Yfrobot-Valon3-Library
 https://github.com/yhur/ConfigPortal32
 https://github.com/yhur/ConfigPortal8266
 https://github.com/YiannisBourkelis/Uptime-Library
@@ -6892,6 +6900,7 @@ https://github.com/SnailDragon/MightyOhmGeigerCounter
 https://github.com/ardlib/bosejis_Types
 https://github.com/ardlib/bosejis_AMV
 https://github.com/ardlib/bosejis_TWI
+https://github.com/ardlib/bosejis_PString
 https://github.com/kalmak07/SensorNorm
 https://github.com/D-314/IP2368-Arduino-Library
 https://github.com/maxpromer/AX-Mini
@@ -6910,7 +6919,15 @@ https://github.com/HighASG936/Mc74hc595a
 https://github.com/cwru-greener-pastures/Heltec_LoRa_OLED_Examples
 https://github.com/Gissio/mcu-renderer
 https://github.com/Gissio/mcu-max
-https://github.com/RCMgames/BSCD
+https://github.com/RCMgames/BSED
 https://github.com/ripred/SmartPin
 https://github.com/Pascal2511/TimerUtils
 https://github.com/XavierBrassoud/Arduino_Epson_PNL_CE02
+https://github.com/AlbertGBarber/PixelSpork
+https://github.com/manicken/sf22aswt
+https://github.com/arduino-libraries/Arduino_MAX17332
+https://github.com/arduino-libraries/Arduino_Alvik
+https://github.com/arduino-libraries/Arduino_AlvikCarrier
+https://github.com/dndg/OptaUSBUpdate
+https://github.com/mlesniew/PicoWebsocket
+https://github.com/Xinyuan-LilyGO/LilyGO-T-Wristband-and-T-Glass
